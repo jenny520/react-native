@@ -1,6 +1,8 @@
 # react-native
 ## Introduction
+
 > 运行效果截图
+>>
 
 ![image](https://github.com/jenny520/react-native/blob/master/introduction1.png)
 ![image1](https://github.com/jenny520/react-native/blob/master/introduction2.png)
